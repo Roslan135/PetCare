@@ -1,0 +1,14 @@
+D:\VS projekti\C# projekti\PetFriends\PetFriends\bin\Debug\PetFriends.exe.config
+D:\VS projekti\C# projekti\PetFriends\PetFriends\bin\Debug\PetFriends.exe
+D:\VS projekti\C# projekti\PetFriends\PetFriends\bin\Debug\PetFriends.pdb
+D:\VS projekti\C# projekti\PetFriends\PetFriends\bin\Debug\Guna.UI2.dll
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.Properties.Resources.resources
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.csproj.GenerateResource.cache
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.csproj.CoreCompileInputs.cache
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.csproj.CopyComplete
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.exe
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.pdb
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.RegLog.resources
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.UserDash.resources
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.PetUserControl.resources
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.GalleryUserControl.resources
